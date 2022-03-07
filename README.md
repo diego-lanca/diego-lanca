@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dieg0dd
+- 👀 I’m interested in learning any language, especially Python, Java and C#
+- 🌱 I’m currently learning C++ and C#, studying on UNAERP | Ribeirão Preto - SP
+- 📫 How to reach me: diiegod16@gmail.com | Whatsapp: (16) 99777-2982
