@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dieg0dd
-- 👀 I’m interested in learning any language, especially Python, JavaScript and C/C++
+- 👋 Hi, I’m @diego-lanca
+- 👀 I’m interested in learning any language, especially Dart, Python, JavaScript and C/C++
 - 🌱 I’m currently learning C and Python, studying on UNAERP | Ribeirão Preto - SP
 - 📫 How to reach me: diegolanca.o@gmail.com | Whatsapp: (16) 99777-2982
