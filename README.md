@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Lança</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **.Net, Udemy**
+- 🌱 I’m currently learning **Node, PHP and C**
 
 - 📫 How to reach me **diegolanca.o@gmail.com**
 
