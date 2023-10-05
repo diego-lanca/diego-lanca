@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Lança</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Node, C, C# and Python**
+- 🌱 I’m currently learning **C, C#, Python, Udemy e Lua**
 
 - 📫 How to reach me **diegolanca.o@gmail.com**
 
