@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=diego-lanca.diego-lanca)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```cpp
@@ -66,11 +66,11 @@ int main() {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diego-lanca&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Diego's GitHub Stats" />
 </a> -->
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=diego-lanca&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=diego-lanca&theme=vue-dark&hide_border=true&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
 
-## 🗂️ Highlight Projects
+<!-- ## 🗂️ Highlight Projects
 
 <a href="https://github.com/diego-lanca/cardapio-frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diego-lanca&repo=cardapio-frontend&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Cardápio Online" />
@@ -82,4 +82,4 @@ int main() {
 
 ## 👨‍💻 This week, I spent my time on:
 
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-lanca)](https://github.com/anuraghazra/github-readme-stats)
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-lanca)](https://github.com/anuraghazra/github-readme-stats) -->
