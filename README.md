@@ -1,17 +1,85 @@
-<h1 align="center">Hi 👋, I'm Diego Lança</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+# Hello there 👋
 
-<div align="center">
-  <a href="https://github.com/diego-lanca">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diego-lanca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-lanca&layout=compact&langs_count=6&theme=dark"/>
-</div>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
+
+class SoftwareEngineer {
+public:
+    std::string name = "Diego Oliveira";
+    std::string role = "Software Developer / Computer Engineering Student";
+    std::vector<std::string> stack = {
+        "Flutter", ".NET", "C#", "C++", "Postgres", "MongoDB"
+    };
+
+    void say_hi() {
+        std::cout << "Thanks for visiting my profile. Feel free to check my projects!" << std::endl;
+    }
+};
+
+int main() {
+    SoftwareEngineer me;
+    me.say_hi();
+}
+```
+
+## 🧑‍💻 About me
+
+- Computer Engineering student at Universidade de Ribeirão Preto - São Paulo, Brazil
+- Web & Mobile Developer
+- Focused on Backend, APIs and Architecture fundamentals
 
 
-- 📫 How to reach me **diegolanca.o@gmail.com**
+## 🔧 Technologies & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/diego-lanca-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-lanca-oliveira" height="30" width="40" /></a>
-<a href="https://instagram.com/diego.lancaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diego.lancaa" height="30" width="40" /></a>
-</p>
+**Programming Languages:**
+
+![C++](https://img.shields.io/badge/Code-C++-informational?logo=C%2B%2B)
+![C#](https://img.shields.io/badge/Code-CSharp-informational?logo=dotnet)
+![Javascript](https://img.shields.io/badge/logo-Javascript-informational?logo=javascript)
+![Python](https://img.shields.io/badge/Code-Python-informational?logo=python)
+![Go](https://img.shields.io/badge/Code-Go-informational?logo=go)
+![Java](https://img.shields.io/badge/Code-Java-informational?logo=openjdk)
+
+**Tools and Services:**
+
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?logo=docker)
+![MongoDB](https://img.shields.io/badge/Tools-Postgres-informational?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/Tools-MongoDB-informational?logo=mongodb)
+
+**Cloud Services:**
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?logo=amazon-aws)
+![GCP](https://img.shields.io/badge/Cloud-Google-informational?logo=google-cloud)
+
+<!-- ## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/diego-lanca/diego-lanca">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-lanca&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Diego's GitHub Stats" />
+</a>
+
+<a href="https://github.com/diego-lanca/diego-lanca">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diego-lanca&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Diego's GitHub Stats" />
+</a> -->
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=diego-lanca&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/diego-lanca/cardapio-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diego-lanca&repo=cardapio-frontend&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Cardápio Online" />
+</a>
+
+<a href="https://github.com/diego-lanca/ignite-social-feed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diego-lanca&repo=ignite-social-feed&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+
+## 👨‍💻 This week, I spent my time on:
+
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-lanca)](https://github.com/anuraghazra/github-readme-stats)
